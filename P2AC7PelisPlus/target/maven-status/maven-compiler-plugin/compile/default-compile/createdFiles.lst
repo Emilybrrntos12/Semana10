@@ -1,0 +1,10 @@
+datos\AccesoDatosImpl.class
+negocio\CatalogoPeliculasImpl.class
+dominio\Pelicula.class
+excepciones\LecturaDatosEx.class
+pelisplus\PeliculasPlus.class
+datos\IAccesoDatos.class
+negocio\CatalogoPeliculas.class
+excepciones\AccesoDatosEx.class
+negocio\IAccessoDatos.class
+excepciones\EscrituraDatosEx.class
